@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">camera</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_size2048x1536">Size 2048x1536</string><string name="action_size1600x1200">Size 1600x1200</string><string name="action_size1280x960">Size 1280x960</string><string name="action_size640x480">Size 640x480</string><string name="hello_world">Hello world!</string>
+    
+    <string name="title_activity_splash">ACamera</string>
+    <string name="main_text">App activa!!! Ya ha pasado la pantalla splash!! agamboadev.esy.es</string>
+    
+    
+    
+    
+    
+    
+
+</resources>
